@@ -10,3 +10,7 @@ User will be able to enter a course with all of it´s projects and the weight fo
 User will be able to enter their grades and the system will calculate the status, how much to you need to pass if you get a 5 in
 
 And more....
+
+Test-driven?
+3 layered MVC?
+
